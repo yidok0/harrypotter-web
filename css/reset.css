@@ -1,0 +1,9 @@
+/*css 리셋*/
+* {margin:0; padding:0; box-sizing:border-box;}
+a {text-decoration:none;}
+ul,ol,li {list-style:none;}
+img,video {vertical-align:top;}
+table {border-collapse:collapse;}
+body {line-height:1; font-size:13px;}
+.clear_fix:after {content:""; display:block; clear:both;}
+input,textarea {outline:0;}
